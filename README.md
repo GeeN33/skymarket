@@ -23,12 +23,12 @@ POST /user/token/
 
 http://127.0.0.1:8000/api/schema/swagger-ui/
 -----------------------------------------------------------------------------------
-![](media/images/Skymarket API.png)
+![alt tag](https://github.com/GeeN33/skymarket/blob/master/media/images/Skymarket%20API.png)
 
 
 
 ### Откройте склонированный репозиторий в PyCharm.
-https://github.com/GeeN33/Django_Homework_1.git
+https://github.com/GeeN33/skymarket.git
 ### установите из файла список внешних зависимостей и библиотеки
 - requirements.txt
 - pip install -r requirements.txt
